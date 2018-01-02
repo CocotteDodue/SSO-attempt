@@ -1,0 +1,15 @@
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.deps.json
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Common.Extensions.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Contract.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Contract.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\bin\Debug\netcoreapp2.0\GruntifyV4.Common.Extensions.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.csprojResolveAssemblyReference.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.csproj.CoreCompileInputs.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.AssemblyInfoInputs.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.AssemblyInfo.cs
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Common\GruntifyV4.Common.DeveloperTools\obj\Debug\netcoreapp2.0\GruntifyV4.Common.DeveloperTools.pdb

@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>GruntifyV4.Api</AssemblyName>
+    <RootNamespace>GruntifyV4.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\CountryController.cs" />
+    <Compile Remove="Controllers\IndustryController.cs" />
+    <Compile Remove="Controllers\OrganisationController.cs" />
+    <Compile Remove="Controllers\OrganisationSizeController.cs" />
+    <Compile Remove="Controllers\SignUpController.cs" />
+    <Compile Remove="Controllers\UserController.cs" />
+    <Compile Remove="OrganisationProfile.cs" />
+    <Compile Remove="ReferenceDataProfile.cs" />
+    <Compile Remove="UserProfile.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business Logic\BusinessLogic\BusinessLogic.csproj" />
+    <ProjectReference Include="..\..\Common\Common.DeveloperTools\Common.DeveloperTools.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Extensions\Common.Extensions.csproj" />
+    <ProjectReference Include="..\..\Model\Model.Contract\Model.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

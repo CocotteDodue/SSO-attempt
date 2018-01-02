@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AuthenticationLogic.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="2.0.1" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\MainApi.Common.Extensions\MainApi.Common.Extensions.csproj" />
+    <ProjectReference Include="..\..\Model\MainApi.Model.Contract\MainApi.Model.Contract.csproj" />
+    <ProjectReference Include="..\..\Model\MainApi.Model.Repository\MainApi.Model.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

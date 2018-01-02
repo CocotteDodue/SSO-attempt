@@ -1,0 +1,4 @@
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Business Logic\GruntifyV4.Logic\obj\Debug\netcoreapp2.0\Api.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Business Logic\GruntifyV4.Logic\obj\Debug\netcoreapp2.0\Api.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Business Logic\GruntifyV4.Logic\obj\Debug\netcoreapp2.0\Api.Logic.AssemblyInfoInputs.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Business Logic\GruntifyV4.Logic\obj\Debug\netcoreapp2.0\Api.Logic.AssemblyInfo.cs

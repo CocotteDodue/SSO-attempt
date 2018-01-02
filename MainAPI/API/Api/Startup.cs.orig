@@ -1,0 +1,61 @@
+﻿using MainApi.Common.DeveloperTools.Swagger;
+using MainApi.Common.Extensions.Startup;
+using MainApi.Model;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
+using MainApi.ModelRepository;
+
+namespace MainApi.Api
+{
+    public class Startup
+    {
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        public IConfiguration Configuration { get; }
+
+        // This method gets called by the runtime. Use this method to add services to the container.
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddCors(options =>
+                options.AddPolicy("AllowAllOrigins",
+                builder =>
+                {
+                    builder.AllowAnyHeader();
+                    builder.AllowAnyOrigin();
+                    builder.AllowAnyMethod();
+                })
+            );
+
+            services.ConfigureDatabaseService(Configuration);
+
+            services.AddMvc();
+            
+            services.AddScoped<DbContextInstanceInfo>();
+
+            services.AddSwagger("Sign up Services API");
+        }
+
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        {
+            // TODO: setup azure build to use Development on QA env
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+                app.UseSwaggerForApi("Sign up");
+            }
+
+            app.UseCors("AllowAllOrigins");
+
+            app.UserAutoMapper(typeof(Startup).GetTypeInfo().Assembly);
+
+            app.UseMvc();
+        }
+    }
+}

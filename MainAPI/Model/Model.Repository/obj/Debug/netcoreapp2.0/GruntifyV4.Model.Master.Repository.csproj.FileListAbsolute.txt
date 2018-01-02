@@ -1,0 +1,21 @@
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.deps.json
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Common.Extensions.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Contract.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Contract.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Model.Master.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\bin\Debug\netcoreapp2.0\GruntifyV4.Common.Extensions.pdb
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.AssemblyInfoInputs.cache
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.AssemblyInfo.cs
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.dll
+C:\Users\Mathilde\Documents\Code\work\src\Master\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.pdb
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.AssemblyInfoInputs.cache
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.AssemblyInfo.cs
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.dll
+C:\Users\Mathilde\Documents\Code\programming-project perso\tests\SSO git tests\MainAPI\Model\GruntifyV4.Model.Master.Repository\obj\Debug\netcoreapp2.0\GruntifyV4.Model.Master.Repository.pdb
