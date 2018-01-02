@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSAuthenticationPortal", "IDSAuthenticationPortal\IDSAuthenticationPortal.csproj", "{E3542F93-0124-4C50-827E-127690470255}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GruntifyV4.Model.Master", "..\..\..\..\work\src\Master\Model\GruntifyV4.Model.Master\GruntifyV4.Model.Master.csproj", "{1BB88CDC-9302-46BC-9D95-4E6519A4FFA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GruntifyV4.Model.Master.Contract", "..\..\..\..\work\src\Master\Model\GruntifyV4.Model.Master.Contract\GruntifyV4.Model.Master.Contract.csproj", "{A4FB0839-B60D-4ABC-8D8F-07BE327E4A56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GruntifyV4.Model.Master.Repository", "..\..\..\..\work\src\Master\Model\GruntifyV4.Model.Master.Repository\GruntifyV4.Model.Master.Repository.csproj", "{BE5B4128-CF33-4CC4-A402-C1C1CA997DCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GruntifyV4.Common.Extensions", "..\..\..\..\work\src\Master\Common\GruntifyV4.Common.Extensions\GruntifyV4.Common.Extensions.csproj", "{E1783EEB-EE8A-4539-8E62-64DD2882D369}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GruntifyV4.Logic", "..\..\..\..\work\src\Master\Business Logic\GruntifyV4.Logic\GruntifyV4.Logic.csproj", "{63C6F821-2AC6-47BF-920A-5CFC8B687CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3542F93-0124-4C50-827E-127690470255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3542F93-0124-4C50-827E-127690470255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3542F93-0124-4C50-827E-127690470255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3542F93-0124-4C50-827E-127690470255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB88CDC-9302-46BC-9D95-4E6519A4FFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB88CDC-9302-46BC-9D95-4E6519A4FFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB88CDC-9302-46BC-9D95-4E6519A4FFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB88CDC-9302-46BC-9D95-4E6519A4FFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FB0839-B60D-4ABC-8D8F-07BE327E4A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FB0839-B60D-4ABC-8D8F-07BE327E4A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FB0839-B60D-4ABC-8D8F-07BE327E4A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FB0839-B60D-4ABC-8D8F-07BE327E4A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5B4128-CF33-4CC4-A402-C1C1CA997DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5B4128-CF33-4CC4-A402-C1C1CA997DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5B4128-CF33-4CC4-A402-C1C1CA997DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5B4128-CF33-4CC4-A402-C1C1CA997DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1783EEB-EE8A-4539-8E62-64DD2882D369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1783EEB-EE8A-4539-8E62-64DD2882D369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1783EEB-EE8A-4539-8E62-64DD2882D369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1783EEB-EE8A-4539-8E62-64DD2882D369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C6F821-2AC6-47BF-920A-5CFC8B687CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C6F821-2AC6-47BF-920A-5CFC8B687CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C6F821-2AC6-47BF-920A-5CFC8B687CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C6F821-2AC6-47BF-920A-5CFC8B687CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5B3B6E-F8E2-4F3B-A933-1C5F1808C610}
+	EndGlobalSection
+EndGlobal

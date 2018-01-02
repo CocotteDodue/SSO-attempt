@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityServer4" Version="2.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\work\src\Master\Business Logic\GruntifyV4.Logic\GruntifyV4.Logic.csproj" />
+    <ProjectReference Include="..\..\..\..\..\work\src\Master\Common\GruntifyV4.Common.Extensions\GruntifyV4.Common.Extensions.csproj" />
+    <ProjectReference Include="..\..\..\..\..\work\src\Master\Model\GruntifyV4.Model.Master.Contract\GruntifyV4.Model.Master.Contract.csproj" />
+  </ItemGroup>
+
+</Project>
